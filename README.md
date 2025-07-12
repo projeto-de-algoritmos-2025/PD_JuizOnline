@@ -32,7 +32,7 @@ Tabela com os links para as devidas questões.
 | [Beecrowd  - ](https://judge.beecrowd.com/pt/problems/view/1106) | Média (5)         | Greedy (Ambicioso)            | [.py](Greed/beecrowd-2345-gergovia/gergovia.py)                         | [.md](Greed/beecrowd-2345-gergovia/gergovia.md)                         |
 
 ## Instalação
-aaa
+aa
 **Linguagem:** Python 3.10+
 
 ### Pré-requisitos
