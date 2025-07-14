@@ -1,4 +1,4 @@
-# Greed_juizOnline
+# PD_juizOnline
 Reposiorio com algoritmos gulosos
 
 ## Alunos
