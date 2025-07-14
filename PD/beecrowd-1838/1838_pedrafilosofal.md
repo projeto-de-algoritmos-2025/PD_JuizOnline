@@ -1,6 +1,6 @@
 # A questão
 
-![1838 Questão](../../assets/1838-pedra/1838_The_Philosophers_Stone_question.png)
+![1838 Questão](../../assets/1838-pedra/1838%20_The_Philosopher's%20_Stone_question.png)
 
 # Estratégia:
 
@@ -30,4 +30,4 @@ Ao final, o maior valor encontrado em `dp` representa o maior tempo de uso cont�
 
 O algoritmo alcançou o resultado esperado e foi aceito pela plataforma. A imagem a seguir confirma a submissão correta:
 
-![1838 Accepted](../../assets/1838-pedra/1838_The_Philosophers_Stone_accepted.png)
+![1838 Accepted](../../assets/1838-pedra/1838%20_The_Philosopher's_Stone_accepted.png)
