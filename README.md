@@ -56,6 +56,3 @@ Clone o repositório:
 git clone git@github.com:projeto-de-algoritmos-2025/PD_JuizOnline.git
 
 ```
-
-
-```
