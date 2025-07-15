@@ -35,6 +35,14 @@ Tabela com os links para as devidas questões.
 aa
 **Linguagem:** Python 3.10+
 
+## Vídeo da apresentação
+
+<a href="https://youtu.be/F0VeCXFJAQA" target="_blank">
+  <img src="https://img.youtube.com/vi/F0VeCXFJAQA/0.jpg" alt="Assista no YouTube" width="600">
+</a>
+
+[Clique aqui para assistir no YouTube](https://youtu.be/F0VeCXFJAQA)
+
 ### Pré-requisitos
 
 - Python 3 instalado
